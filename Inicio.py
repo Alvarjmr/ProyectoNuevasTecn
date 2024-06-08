@@ -31,8 +31,7 @@ st.write("*Contáctenos:* [Enlace al correo electrónico de contacto](mailto:nom
 # Footer with team members and project information
 st.subheader("Equipo y Contacto")
 st.write("*Miembros del equipo:*")
-st.write("- Nombre 1:")
-st.write("- Nombre 2:")
-st.write("- Nombre 3:")
+st.write("- Nombre 1:Alvaro Javier Martinez Rubio")
+
 st.write("*Información de contacto:*")
 st.write("Correo electrónico: [Enlace al correo electrónico de contacto](mailto:nominavalentino@gmail.com)")
